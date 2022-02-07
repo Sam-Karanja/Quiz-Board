@@ -3,7 +3,7 @@
 #### Version v1.1.0
 
 ### Demo
-Here is a live link to the website. https://karanjasam210.github.io/Insurance-website/
+Here is a live link to the website. https://karanjasam210.github.io/Quiz-Board/
 
 ### By Samuel Karanja Murigi
 
